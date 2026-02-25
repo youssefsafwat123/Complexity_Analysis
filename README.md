@@ -2,7 +2,7 @@
 
 > *See the flaws others miss.*
 
-Owlint is an AI-powered code quality analysis tool that detects **SOLID principle violations**, **code complexity**, and **clean code issues** in real-time — then suggests how to fix them.
+Strivora is an AI-powered code quality analysis tool that detects **SOLID principle violations**, **code complexity**, and **clean code issues** in real-time — then suggests how to fix them.
 
 Built as a graduation project using Python, FastAPI, and React.
 
